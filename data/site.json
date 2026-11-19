@@ -24,7 +24,10 @@
     "link": "https://skeb.jp/@hiyasi_ki"
    },
    "tags": [],
-   "priceEnc": null,
+   "priceEnc": {
+    "iv": "kbjXdCqmugG/2m+y",
+    "c": "VAB11yBylqePrSyIRSjJalbmiLKMXbbz"
+   },
    "id": "52617ba5-6fc8-454e-969a-5edb94261293",
    "created": 1795113579606,
    "w": 1518,
